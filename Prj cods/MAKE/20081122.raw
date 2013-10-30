@@ -1,0 +1,304 @@
+[2008-11-22 09:09:02] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 09:09:02] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 09:09:04] Begin Listening thread...
+[2008-11-22 09:09:04] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:3]
+[2008-11-22 09:09:04] Create the socket successfully...
+[2008-11-22 09:09:04] Bind the socket successfully,then it will start listening...
+[2008-11-22 09:09:04] Start Listeining successfully...
+[2008-11-22 09:09:04] Waitting for the client connections....
+[2008-11-22 09:09:08] New connection is arrival...
+[2008-11-22 09:09:08] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:08] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:08] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:09] Can readable handle is ready...
+
+[2008-11-22 09:09:1227316149]
+[2008-11-22 09:09:09] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:09:11] New connection is arrival...
+[2008-11-22 09:09:11] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:11] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:11] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:12] Can readable handle is ready...
+
+[2008-11-22 09:09:1227316152]
+[2008-11-22 09:09:12] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:09:15] New connection is arrival...
+[2008-11-22 09:09:15] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:15] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:15] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:18] [../COMMUN/src/usocket.c-line:356] Can not read data from remote host for Waiting data timeout
+[2008-11-22 09:09:21] New connection is arrival...
+[2008-11-22 09:09:21] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:21] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:21] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:24] [../COMMUN/src/usocket.c-line:356] Can not read data from remote host for Waiting data timeout
+[2008-11-22 09:09:27] New connection is arrival...
+[2008-11-22 09:09:27] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:27] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:27] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:30] [../COMMUN/src/usocket.c-line:356] Can not read data from remote host for Waiting data timeout
+[2008-11-22 09:09:33] New connection is arrival...
+[2008-11-22 09:09:33] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:33] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:33] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:36] [../COMMUN/src/usocket.c-line:356] Can not read data from remote host for Waiting data timeout
+[2008-11-22 09:09:38] New connection is arrival...
+[2008-11-22 09:09:38] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:38] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:38] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:41] [../COMMUN/src/usocket.c-line:356] Can not read data from remote host for Waiting data timeout
+[2008-11-22 09:09:43] New connection is arrival...
+[2008-11-22 09:09:43] Recv Connection from [127.0.0.1]
+[2008-11-22 09:09:43] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:09:43] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:09:46] [../COMMUN/src/usocket.c-line:356] Can not read data from remote host for Waiting data timeout
+[2008-11-22 09:10:07] New connection is arrival...
+[2008-11-22 09:10:07] Recv Connection from [127.0.0.1]
+[2008-11-22 09:10:07] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:10:07] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:10:08] Can readable handle is ready...
+
+[2008-11-22 09:10:1227316208]
+[2008-11-22 09:10:08] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:10:09] New connection is arrival...
+[2008-11-22 09:10:09] Recv Connection from [127.0.0.1]
+[2008-11-22 09:10:09] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:10:09] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:10:10] Can readable handle is ready...
+
+[2008-11-22 09:10:1227316210]
+[2008-11-22 09:10:10] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:10:12] New connection is arrival...
+[2008-11-22 09:10:12] Recv Connection from [127.0.0.1]
+[2008-11-22 09:10:12] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:10:12] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:10:13] Can readable handle is ready...
+
+[2008-11-22 09:10:1227316213]
+[2008-11-22 09:10:13] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:10:14] New connection is arrival...
+[2008-11-22 09:10:14] Recv Connection from [127.0.0.1]
+[2008-11-22 09:10:14] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:10:14] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:10:16] Can readable handle is ready...
+
+[2008-11-22 09:10:1227316216]
+0x65 0x74 0x72 0x65 0x72 0x74 0x67 0x66 0x64 0x67 0x64 0x66 0x67 0x64 0x67 0x66 etrertgfdgdfgdgf
+[2008-11-22 09:10:16] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:10:18] New connection is arrival...
+[2008-11-22 09:10:18] Recv Connection from [127.0.0.1]
+[2008-11-22 09:10:18] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:10:18] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:10:20] Can readable handle is ready...
+
+[2008-11-22 09:10:1227316220]
+0x73 0x61 0x64 0x66 0x64 0x73 0x67 0x66 0x64 0x73 0x67 0x66 0x64 0x68 0x75 0x74 sadfdsgfdsgfdhut
+[2008-11-22 09:10:20] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:10:24] New connection is arrival...
+[2008-11-22 09:10:24] Recv Connection from [127.0.0.1]
+[2008-11-22 09:10:24] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 09:10:24] Begin the buiness processing thread [handle:4]...
+[2008-11-22 09:10:26] Can readable handle is ready...
+
+[2008-11-22 09:10:1227316226]
+0x64 0x73 0x61 0x66 0x73 0x64 0x61 0x66 0x64 0x73 0x61 0x66 0x64 0x73 0x61 0x66 dsafsdafdsafdsaf
+[2008-11-22 09:10:26] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 09:49:24] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 09:49:24] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 09:52:43] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 09:52:43] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 09:53:18] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 09:53:18] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 09:53:31] You want to terminate system in abnormal way...
+
+[2008-11-22 09:54:06] Invalid Command, please re-input your command again or use 'help' command to list all command usages 
+[2008-11-22 09:54:10] Invalid Command, please re-input your command again or use 'help' command to list all command usages 
+[2008-11-22 09:54:12] Invalid Command, please re-input your command again or use 'help' command to list all command usages 
+[2008-11-22 09:58:25] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 09:58:25] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 09:58:29] Begin Listening thread...
+[2008-11-22 09:58:29] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:3]
+[2008-11-22 09:58:29] Create the socket successfully...
+[2008-11-22 09:58:29] Bind the socket successfully,then it will start listening...
+[2008-11-22 09:58:29] Start Listeining successfully...
+[2008-11-22 09:58:29] Waitting for the client connections....
+[2008-11-22 09:58:32] The socket is working,you can not quit system. You should rum "shutdown" first to shutdown socket listeing...
+[2008-11-22 09:59:55] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 09:59:55] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 10:00:01] Begin Listening thread...
+[2008-11-22 10:00:01] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:3]
+[2008-11-22 10:00:01] Create the socket successfully...
+[2008-11-22 10:00:01] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:00:01] Start Listeining successfully...
+[2008-11-22 10:00:01] Waitting for the client connections....
+[2008-11-22 10:00:04] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:00:50] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:00:50] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 10:00:52] Begin Listening thread...
+[2008-11-22 10:00:52] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:3]
+[2008-11-22 10:00:52] Create the socket successfully...
+[2008-11-22 10:00:52] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:00:52] Start Listeining successfully...
+[2008-11-22 10:00:52] Waitting for the client connections....
+[2008-11-22 10:00:55] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:01:15] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:01:15] [../MAIN/OnlinePaymentM.c-line:28]Processing system singnales successfully
+[2008-11-22 10:01:18]  list ------list all parameters which is using by system
+[2008-11-22 10:01:18]  exe -------execute a shell command with current shell
+[2008-11-22 10:01:18]  startup ---start up the socket listening system
+[2008-11-22 10:01:18]  shutdown---shut down the socket listening system
+[2008-11-22 10:01:18]  help ------list all help message and usage of system commands
+[2008-11-22 10:01:18]  quit ------quit system
+[2008-11-22 10:01:19] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:08:36] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:08:36] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:08:37]  list ------list all parameters which is using by system
+[2008-11-22 10:08:37]  exe -------execute a shell command with current shell
+[2008-11-22 10:08:37]  startup ---start up the socket listening system
+[2008-11-22 10:08:37]  shutdown---shut down the socket listening system
+[2008-11-22 10:08:37]  help ------list all help message and usage of system commands
+[2008-11-22 10:08:37]  quit ------quit system
+[2008-11-22 10:08:43] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:08:43] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:08:45] Begin Listening thread...
+[2008-11-22 10:08:45] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:3]
+[2008-11-22 10:08:45] Create the socket successfully...
+[2008-11-22 10:08:45] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:08:45] Start Listeining successfully...
+[2008-11-22 10:08:45] Waitting for the client connections....
+[2008-11-22 10:08:48] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:08:59] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:08:59] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:18:41] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:18:41] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:18:54] You want to terminate system in abnormal way,you command is discarded...
+
+[2008-11-22 10:21:46] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:21:46] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:21:49] Begin Listening thread...
+[2008-11-22 10:21:49] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:30]
+[2008-11-22 10:21:49] Create the socket successfully...
+[2008-11-22 10:21:49] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:21:49] Start Listeining successfully...
+[2008-11-22 10:21:49] Waitting for the client connections....
+[2008-11-22 10:24:27] New connection is arrival...
+[2008-11-22 10:24:27] Recv Connection from [127.0.0.1]
+[2008-11-22 10:24:27] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:24:27] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 10:24:28] Readable handle is ready...
+
+[2008-11-22 10:24:1227320668]
+[2008-11-22 10:24:28] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 10:24:49] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:25:02] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:25:02] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:25:04] Begin Listening thread...
+[2008-11-22 10:25:04] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:30]
+[2008-11-22 10:25:04] Create the socket successfully...
+[2008-11-22 10:25:04] [../COMMUN/src/usocket.c-line:143] can not bind to socket,pls check system
+[2008-11-22 10:30:08] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:30:09] Invalid Command, please re-input your command again or use 'help' command to list all command usages 
+[2008-11-22 10:30:11] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:30:12] Invalid Command, please re-input your command again or use 'help' command to list all command usages 
+[2008-11-22 10:30:14] The socket is working,you can not quit system. You should run "shutdown" first to shutdown socket listeing...
+[2008-11-22 10:30:25] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:30:25] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:30:28] Begin Listening thread...
+[2008-11-22 10:30:28] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:30]
+[2008-11-22 10:30:28] Create the socket successfully...
+[2008-11-22 10:30:28] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:30:28] Start Listeining successfully...
+[2008-11-22 10:30:28] Waitting for the client connections....
+[2008-11-22 10:30:32] New connection is arrival...
+[2008-11-22 10:30:32] Recv Connection from [127.0.0.1]
+[2008-11-22 10:30:32] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:30:32] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 10:30:33] Readable handle is ready...
+
+[2008-11-22 10:30:1227321033]
+[2008-11-22 10:30:33] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 10:30:48] New connection is arrival...
+[2008-11-22 10:30:48] Recv Connection from [127.0.0.1]
+[2008-11-22 10:30:48] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 10:30:48] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:30:48] User has terminated the listening socket...
+[2008-11-22 10:30:49] Readable handle is ready...
+
+[2008-11-22 10:30:1227321049]
+[2008-11-22 10:30:49] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 10:32:05] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:32:05] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:32:07] Begin Listening thread...
+[2008-11-22 10:32:07] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:30]
+[2008-11-22 10:32:07] Create the socket successfully...
+[2008-11-22 10:32:07] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:32:07] Start Listeining successfully...
+[2008-11-22 10:32:07] Waitting for the client connections....
+[2008-11-22 10:32:10] New connection is arrival...
+[2008-11-22 10:32:10] Recv Connection from [127.0.0.1]
+[2008-11-22 10:32:10] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 10:32:10] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:32:10] Readable handle is ready...
+
+[2008-11-22 10:32:1227321130]
+[2008-11-22 10:32:10] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 10:32:29] New connection is arrival...
+[2008-11-22 10:32:29] Recv Connection from [127.0.0.1]
+[2008-11-22 10:32:29] [../COMMUN/src/usocket.c-line:227] accept remote socket connetion [handle:4]
+[2008-11-22 10:32:29] User has terminated the listening socket...
+[2008-11-22 10:32:29] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:32:30] Readable handle is ready...
+
+[2008-11-22 10:32:1227321150]
+[2008-11-22 10:32:30] [../COMMUN/src/usocket.c-line:300]Read data errors occur,pls check your system
+[2008-11-22 10:34:43] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:34:43] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:34:46] Begin Listening thread...
+[2008-11-22 10:34:46] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:30]
+[2008-11-22 10:34:46] Create the socket successfully...
+[2008-11-22 10:34:46] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:34:46] Start Listeining successfully...
+[2008-11-22 10:34:46] Waitting for the client connections....
+[2008-11-22 10:34:51] New connection is arrival...
+[2008-11-22 10:34:51] Recv Connection from [127.0.0.1]
+[2008-11-22 10:34:51] [../COMMUN/src/usocket.c-line:228] accept remote socket connetion [handle:4]
+[2008-11-22 10:34:51] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:34:51] Readable handle is ready...
+
+[2008-11-22 10:34:1227321291]
+[2008-11-22 10:34:51] [../COMMUN/src/usocket.c-line:301]Read data errors occur,pls check your system
+[2008-11-22 10:35:00] New connection is arrival...
+[2008-11-22 10:35:00] Recv Connection from [127.0.0.1]
+[2008-11-22 10:35:00] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:35:00] [../COMMUN/src/usocket.c-line:228] accept remote socket connetion [handle:4]
+[2008-11-22 10:35:00] User has terminated the listening socket...
+[2008-11-22 10:35:02] Readable handle is ready...
+
+[2008-11-22 10:35:1227321302]
+[2008-11-22 10:35:02] [../COMMUN/src/usocket.c-line:301]Read data errors occur,pls check your system
+[2008-11-22 10:38:20] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-11-22 10:38:20] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-11-22 10:39:45] Begin Listening thread...
+[2008-11-22 10:39:45] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:30]
+[2008-11-22 10:39:45] Create the socket successfully...
+[2008-11-22 10:39:45] Bind the socket successfully,then it will start listening...
+[2008-11-22 10:39:45] Start Listeining successfully...
+[2008-11-22 10:39:45] Waitting for the client connections....
+[2008-11-22 10:41:15] New connection is arrival...
+[2008-11-22 10:41:15] Recv Connection from [127.0.0.1]
+[2008-11-22 10:41:15] [../COMMUN/src/usocket.c-line:228] accept remote socket connetion [handle:4]
+[2008-11-22 10:41:15] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:41:15] Readable handle is ready...
+
+[2008-11-22 10:41:1227321675]
+[2008-11-22 10:41:15] [../COMMUN/src/usocket.c-line:301]Read data errors occur,pls check your system
+[2008-11-22 10:41:18] New connection is arrival...
+[2008-11-22 10:41:18] Recv Connection from [127.0.0.1]
+[2008-11-22 10:41:18] [../COMMUN/src/usocket.c-line:228] accept remote socket connetion [handle:4]
+[2008-11-22 10:41:18] Begin the buiness processing thread [handle:4]...
+[2008-11-22 10:41:21] Readable handle is ready...
+
+[2008-11-22 10:41:1227321681]
+0x66 0x64 0x73 0x66 0x64 0x73 0x66 0x73 0x66 0x61 0x73 0x64 0x67 0x66 0x64 0x73 fdsfdsfsfasdgfds
+[2008-11-22 10:41:21] [../COMMUN/src/usocket.c-line:301]Read data errors occur,pls check your system
+

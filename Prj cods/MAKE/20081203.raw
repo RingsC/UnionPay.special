@@ -1,0 +1,18 @@
+[2008-12-03 14:49:27] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-12-03 14:49:27] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-12-03 14:53:11] [../MAIN/OnlinePaymentM.c-line:23]Initializating the global varibalse successfully
+[2008-12-03 14:53:11] [../MAIN/OnlinePaymentM.c-line:29]Processing system singnales successfully
+[2008-12-03 14:56:55]  list ------list all parameters which is using by system
+[2008-12-03 14:56:55]  exe -------execute a shell command with current shell
+[2008-12-03 14:56:55]  startup ---start up the socket listening system
+[2008-12-03 14:56:55]  shutdown---shut down the socket listening system
+[2008-12-03 14:56:55]  help ------list all help message and usage of system commands
+[2008-12-03 14:56:55]  quit ------quit system
+[2008-12-03 15:02:58] Invalid Command, please re-input your command again or use 'help' command to list all command usages 
+[2008-12-03 15:03:06] Begin Listening thread...
+[2008-12-03 15:03:06] The params of socket.[IP:127.0.0.1][Port:8080][TimeOutValue:30]
+[2008-12-03 15:03:06] Create the socket successfully...
+[2008-12-03 15:03:06] Bind the socket successfully,then it will start listening...
+[2008-12-03 15:03:06] Start Listeining successfully...
+[2008-12-03 15:03:06] Waitting for the client connections....
+
